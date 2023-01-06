@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<row>
+  <id>1</id>
+  <name>PIRATES OF THE CARIBBEAN AT WORLD&#39;S END</name>
+  <genre>Genre: Action/Adventure</genre>
+  <releasedate>May 24, 2007 </releasedate>
+  <runningtime>168 </runningtime>
+  <price>5</price>
+</row>
+<row>
+  <id>2</id>
+  <name>SHREK THE THIRD</name>
+  <genre>Genre: Family</genre>
+  <releasedate>May 18, 2007</releasedate>
+  <runningtime>93</runningtime>
+  <price>10</price>
+</row>
+<row>
+  <id>3</id>
+  <name>SPIDER MAN 3</name>
+  <genre>Genre: Action/Adventure</genre>
+  <releasedate>May 4, 2007</releasedate>
+  <runningtime>140</runningtime>
+  <price>15</price>
+</row>
+<row>
+  <id>4</id>
+  <name>TTITANI</name>
+  <genre>Genre: Action/Adventure</genre>
+  <releasedate>May 9, 2007</releasedate>
+  <runningtime>156</runningtime>
+  <price>20</price>
+</row>
+<row>
+  <id>5</id>
+  <name>IRON MAN</name>
+  <genre>Genre: Family</genre>
+  <releasedate>May 30, 2007</releasedate>
+  <runningtime>163</runningtime>
+  <price>25</price>
+</row>
+<row>
+  <id>6</id>
+  <name>XMEN</name>
+  <genre>Genre: Action</genre>
+  <releasedate>Mars 3, 2007</releasedate>
+  <runningtime>154</runningtime>
+  <price>30</price>
+</row>
+
+</data>
