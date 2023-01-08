@@ -14,3 +14,4 @@ This is the area reserved only for the administrator of the appplication.
 
 Where he can update new movies on the platform, categorize movie genre, modify the price and offer promotion.
 
+
